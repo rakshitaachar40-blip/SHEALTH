@@ -405,7 +405,7 @@ KLE Technological University
 **Electronics and Communication Engineering (ECE) | 5th Semester**
 KLE Technological University
 
-**Team:** SHEALTH
+**Team:** Cipher
 **Hackathon:** recHERsion 2026
 
 The team's work brings together engineering, software development, and a shared interest in improving women's healthcare experiences.
