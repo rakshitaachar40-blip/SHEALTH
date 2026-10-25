@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { api, go } from './api.js';
 import { Dashboard, Tracker, Insights, Learn, Doctor, Consent } from './pages.jsx';
+import Connect from './Connect.jsx';
 
 const INTERESTS = [
   ['pcos', 'PCOS & PCOD', 'Hormonal changes that can affect periods, skin, hair growth and fertility.'],
@@ -160,14 +161,15 @@ export default function App() {
   if (!ready) return <p className="loading">Loading…</p>;
 
   const nav = user
-    ? [['dashboard', 'Home'], ['track', 'Track'], ['insights', 'Insights'], ['learn', 'Learn'], ['doctor', 'Doctor']]
-    : [['learn', 'Learn']];
+    ? [['dashboard', 'Home'], ['track', 'Track'], ['insights', 'Insights'], ['learn', 'Learn'], ['doctor', 'Doctor'], ['connect', 'SHEALTH Connect']]
+    : [['learn', 'Learn'], ['connect', 'SHEALTH Connect']];
 
   let view;
   if (page === 'register' && !user) view = <Register onAuth={setUser} />;
   else if (page === 'login' && !user) view = <Login onAuth={setUser} />;
   else if (page === 'forgot' && !user) view = <Forgot />;
   else if (page === 'learn') view = <Learn interests={user?.preferences} />;
+  else if (page === 'connect' && (!user || user.consent)) view = <Connect />;
   else if (!user) view = page === 'home' ? <Landing /> : <Login onAuth={setUser} />;
   else if (!user.consent) view = <Consent onDone={setUser} onDecline={logout} />;
   else if (page === 'track') view = <Tracker />;
