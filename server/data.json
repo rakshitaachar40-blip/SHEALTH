@@ -1,0 +1,408 @@
+{
+  "users": [
+    {
+      "id": "7757813a-5afd-4c0e-a83c-296b8ec97855",
+      "name": "Anu",
+      "email": "anu345@gmail.com",
+      "dob": "2006-04-01",
+      "preferences": [
+        "anemia"
+      ],
+      "passwordHash": "$2a$12$3VMbzWZb4CGrR84OooTLkuaGyzxMV3hidIzABDxcxDZAXx8mK/nue",
+      "consent": true,
+      "consentAt": "2026-10-24T10:47:13.829Z"
+    },
+    {
+      "id": "629f4c57-8635-4193-b97c-9421c2f31639",
+      "name": "Riya",
+      "email": "riya45@gmail.com",
+      "dob": "2005-05-12",
+      "preferences": [],
+      "passwordHash": "$2a$12$1yH6.Euw8aQkbjPKzBsDsefCu.F7ettntYK6a6.RxNhq2pQZK7/4.",
+      "consent": true,
+      "consentAt": "2026-10-24T16:15:25.203Z"
+    },
+    {
+      "id": "3c2b36e8-6573-4572-817b-3ecc13e3235c",
+      "name": "Rakshita",
+      "email": "rakshitaachar40@gmail.com",
+      "dob": "2006-03-17",
+      "preferences": [],
+      "passwordHash": "$2a$12$Ld9dYD0viS9GB8AyUqGKGu/ZmBc7x3Y/wAqNdu8jqwRPwfILT.4pe",
+      "consent": true,
+      "consentAt": "2026-10-25T05:28:01.179Z"
+    },
+    {
+      "id": "93ee8a47-6819-4a8a-a254-2d2ed1f8f6d3",
+      "name": "SHEALTH Recovery Test",
+      "email": "shealth-recovery-test+7bf445fb0c@example.com",
+      "dob": "1990-01-01",
+      "preferences": [],
+      "passwordHash": "$2a$12$bXJ4eFcOmG5fzR.2QsHWpeZt5ouv5ce2ksHJajim4BNkCUwjRI1IW",
+      "consent": true,
+      "consentAt": "2026-10-25T14:26:17.656Z"
+    },
+    {
+      "id": "c93796e7-94c3-4974-8797-13dd7d20d144",
+      "name": "rakshita",
+      "email": "rakshita@gmail.com",
+      "dob": "2006-03-17",
+      "preferences": [
+        "menstrual",
+        "pcos"
+      ],
+      "passwordHash": "$2a$12$NBpr1blhvFx19bk4NVSkaucnYGJiiYnoeW.Bux.c8QiJ8fHxStBMS",
+      "consent": true,
+      "consentAt": "2026-10-25T14:27:35.870Z"
+    },
+    {
+      "id": "c6bdce88-dbbc-4d1b-b269-d3f77c2efd5b",
+      "name": "SHEALTH UI Recovery Test",
+      "email": "shealth-ui-test+1792939062493@example.com",
+      "dob": "1990-01-01",
+      "preferences": [],
+      "passwordHash": "$2a$12$5IA0qvq0uh9wRIql.voxZupOJ7gWZXUJim7HMo2IpfSFL.NjJsNAq",
+      "consent": false
+    },
+    {
+      "id": "dd8c6800-ba55-4318-b1bd-db27e767d87f",
+      "name": "rakshita",
+      "email": "rakshitaa@gmail.com",
+      "dob": "2006-03-17",
+      "preferences": [
+        "pcos"
+      ],
+      "passwordHash": "$2a$12$WYAaiN37q4SIqk9NZ1OL.ePuriRf0Wc7AQjOJNOFyZJxdFjQf81nq",
+      "consent": true,
+      "consentAt": "2026-10-25T15:08:34.986Z"
+    },
+    {
+      "id": "c4ac08b7-2c78-479c-bf4e-dabcab306d86",
+      "name": "rakshita",
+      "email": "rakshitac@gmail.com",
+      "dob": "2006-03-17",
+      "preferences": [
+        "pcos"
+      ],
+      "passwordHash": "$2a$12$5dmTh3i..S5U9QuxpY8tMO.Y7LHNkez2Mf5n7Y4KqIiFmGLgSmphm",
+      "consent": true,
+      "consentAt": "2026-10-25T15:32:08.737Z"
+    },
+    {
+      "id": "b51fff9a-37fe-43a3-ba44-0f90b4436760",
+      "name": "Rakshita Achar",
+      "email": "rakshitaachar@gmail.com",
+      "dob": "2006-03-17",
+      "preferences": [
+        "pcos",
+        "menstrual"
+      ],
+      "passwordHash": "$2a$12$ieC2.tfbH7kOjm91BM7daONEZ9kWIPVVmj7HyIUV8TJVzL/0Fhth6",
+      "consent": true,
+      "consentAt": "2026-10-25T16:35:43.995Z"
+    },
+    {
+      "id": "bcd27533-9df1-42b2-b298-204f55e18587",
+      "name": "Rakshita Achar",
+      "email": "rakshitaach@gmail.com",
+      "dob": "2006-03-17",
+      "preferences": [
+        "pcos",
+        "menstrual"
+      ],
+      "passwordHash": "$2a$12$PRYd47hpzi/d99K3th0O8eoWG.rLNHK2rc34gkwSgbAHo8y010vKK",
+      "consent": true,
+      "consentAt": "2026-10-25T16:42:05.976Z"
+    },
+    {
+      "id": "f4b481df-bc4b-4987-aa53-d35a196d3e9b",
+      "name": "sjdha",
+      "email": "ssmsm@gmail.com",
+      "dob": "2009-02-12",
+      "preferences": [
+        "pcos"
+      ],
+      "passwordHash": "$2a$12$r7lYnp5/cdHEdcpn4AsWkO03kl1ahZ90kSCxfhZCblf.Rtb6HL3AC",
+      "consent": true,
+      "consentAt": "2026-10-25T17:26:04.865Z"
+    },
+    {
+      "id": "514a40cf-9eb9-48c4-bdb2-312e7ce4e845",
+      "name": "abcd",
+      "email": "abcd1253@gmail.com",
+      "dob": "2006-03-12",
+      "preferences": [],
+      "passwordHash": "$2a$12$PCUI7YVBfHJt0SnvAEZQH.d0brVLhkaTOQweR6PdYqZoAP1VL.5Iu",
+      "consent": true,
+      "consentAt": "2026-10-25T17:49:03.084Z"
+    }
+  ],
+  "symptoms": [
+    {
+      "id": "966816da-1e6f-4d26-9c6c-fe90a45ecf69",
+      "user": "7757813a-5afd-4c0e-a83c-296b8ec97855",
+      "type": "fatigue",
+      "severity": "mild",
+      "date": "2026-10-24",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-24T10:47:57.935Z"
+    },
+    {
+      "id": "e773de8e-8add-4b3e-b3e9-2898348f7b48",
+      "user": "629f4c57-8635-4193-b97c-9421c2f31639",
+      "type": "headache",
+      "severity": "moderate",
+      "date": "2026-10-24",
+      "duration": "2 to 3 days",
+      "notes": "",
+      "periodStart": true,
+      "createdAt": "2026-10-24T16:15:54.192Z"
+    },
+    {
+      "id": "32f5b4ee-5506-43ef-af3a-2907a41d2e6a",
+      "user": "3c2b36e8-6573-4572-817b-3ecc13e3235c",
+      "type": "Pelvic pain",
+      "severity": "moderate",
+      "date": "2026-10-25",
+      "duration": "All day",
+      "notes": "",
+      "periodStart": true,
+      "createdAt": "2026-10-25T05:29:03.343Z"
+    },
+    {
+      "id": "f0f5236b-0499-42da-a240-fac8761a8500",
+      "user": "3c2b36e8-6573-4572-817b-3ecc13e3235c",
+      "type": "Cramps",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T05:29:32.667Z"
+    },
+    {
+      "id": "e9a4e8cf-dda4-4969-81eb-447995020d43",
+      "user": "3c2b36e8-6573-4572-817b-3ecc13e3235c",
+      "type": "Heavy bleeding",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T05:29:40.530Z"
+    },
+    {
+      "id": "29c6e337-b741-431a-9077-a2397b0387ab",
+      "user": "3c2b36e8-6573-4572-817b-3ecc13e3235c",
+      "type": "Cramps",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T05:45:09.931Z"
+    },
+    {
+      "id": "6292af9d-6fef-4a84-9f12-4d93c61d36d2",
+      "user": "3c2b36e8-6573-4572-817b-3ecc13e3235c",
+      "type": "Cramps",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T05:45:18.412Z"
+    },
+    {
+      "id": "89819efb-6902-4862-a773-db131256b8ea",
+      "user": "3c2b36e8-6573-4572-817b-3ecc13e3235c",
+      "type": "Cramps",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T05:45:30.703Z"
+    },
+    {
+      "id": "01e43e27-0610-4259-8504-9ee188067e83",
+      "user": "93ee8a47-6819-4a8a-a254-2d2ed1f8f6d3",
+      "type": "Test-only sample symptom",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T14:26:17.661Z"
+    },
+    {
+      "id": "b46a8b48-50a7-44bb-905b-3bf442cf4ee2",
+      "user": "c93796e7-94c3-4974-8797-13dd7d20d144",
+      "type": "Bloating",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T14:28:01.354Z"
+    },
+    {
+      "id": "89f2ce18-8fa4-43dd-8f18-3803151b73e4",
+      "user": "c93796e7-94c3-4974-8797-13dd7d20d144",
+      "type": "Heavy bleeding",
+      "severity": "moderate",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T14:28:12.028Z"
+    },
+    {
+      "id": "24881221-63ab-4967-aa36-2bc7290c48af",
+      "user": "c93796e7-94c3-4974-8797-13dd7d20d144",
+      "type": "Heavy bleeding",
+      "severity": "moderate",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T14:28:22.119Z"
+    },
+    {
+      "id": "983f2e72-d5f6-4098-ad0d-8bbd1675d730",
+      "user": "c93796e7-94c3-4974-8797-13dd7d20d144",
+      "type": "Heavy bleeding",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T14:28:37.652Z"
+    },
+    {
+      "id": "b53d2cae-4d0a-4f52-bb75-cdbd692d3b4a",
+      "user": "c93796e7-94c3-4974-8797-13dd7d20d144",
+      "type": "Cramps",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": true,
+      "createdAt": "2026-10-25T14:29:10.268Z"
+    },
+    {
+      "id": "262a3553-eeab-4bdc-b4e5-26848359fbdb",
+      "user": "b51fff9a-37fe-43a3-ba44-0f90b4436760",
+      "type": "Cramps",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": true,
+      "createdAt": "2026-10-25T16:35:57.906Z"
+    },
+    {
+      "id": "6de4c708-b7a0-4248-be27-1bcbe120201f",
+      "user": "b51fff9a-37fe-43a3-ba44-0f90b4436760",
+      "type": "Fatigue",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T16:36:01.623Z"
+    },
+    {
+      "id": "4826b2d4-1a10-4d34-9cbd-436fbf2c4a55",
+      "user": "b51fff9a-37fe-43a3-ba44-0f90b4436760",
+      "type": "Cramps",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": true,
+      "createdAt": "2026-10-25T16:36:07.417Z"
+    },
+    {
+      "id": "c1f58787-1c66-4964-a5fd-507e1fb65756",
+      "user": "b51fff9a-37fe-43a3-ba44-0f90b4436760",
+      "type": "Cramps",
+      "severity": "severe",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": true,
+      "createdAt": "2026-10-25T16:36:14.431Z"
+    },
+    {
+      "id": "7b94bc2a-21e5-42fd-b142-58ba900b86cb",
+      "user": "bcd27533-9df1-42b2-b298-204f55e18587",
+      "type": "Fatigue",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": true,
+      "createdAt": "2026-10-25T16:42:17.991Z"
+    },
+    {
+      "id": "1cea8d8c-2d3b-4656-843b-139af22f6eae",
+      "user": "bcd27533-9df1-42b2-b298-204f55e18587",
+      "type": "Cramps",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": true,
+      "createdAt": "2026-10-25T16:42:23.669Z"
+    },
+    {
+      "id": "52e53c4e-610e-4ca3-bb8a-8993aad4eee8",
+      "user": "bcd27533-9df1-42b2-b298-204f55e18587",
+      "type": "Cramps",
+      "severity": "moderate",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T16:42:28.875Z"
+    },
+    {
+      "id": "24c3a534-6c68-420d-9a58-3465393e52a7",
+      "user": "bcd27533-9df1-42b2-b298-204f55e18587",
+      "type": "Cramps",
+      "severity": "severe",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T16:42:37.009Z"
+    },
+    {
+      "id": "687b1c81-903a-435c-8923-3619fae73404",
+      "user": "bcd27533-9df1-42b2-b298-204f55e18587",
+      "type": "Headache",
+      "severity": "moderate",
+      "date": "2026-10-25",
+      "duration": "All day",
+      "notes": "",
+      "periodStart": true,
+      "createdAt": "2026-10-25T16:42:48.091Z"
+    },
+    {
+      "id": "76195ea9-fe44-4ccf-acf0-bcc93d014f41",
+      "user": "514a40cf-9eb9-48c4-bdb2-312e7ce4e845",
+      "type": "fatigue",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T17:49:13.713Z"
+    }
+  ],
+  "reminders": [],
+  "resets": []
+}
