@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": "7757813a-5afd-4c0e-a83c-296b8ec97855",
+      "name": "Anu",
+      "email": "anu345@gmail.com",
+      "dob": "2006-04-01",
+      "preferences": [
+        "anemia"
+      ],
+      "passwordHash": "$2a$12$3VMbzWZb4CGrR84OooTLkuaGyzxMV3hidIzABDxcxDZAXx8mK/nue",
+      "consent": true,
+      "consentAt": "2026-10-24T10:47:13.829Z"
+    },
+    {
+      "id": "629f4c57-8635-4193-b97c-9421c2f31639",
+      "name": "Riya",
+      "email": "riya45@gmail.com",
+      "dob": "2005-05-12",
+      "preferences": [],
+      "passwordHash": "$2a$12$1yH6.Euw8aQkbjPKzBsDsefCu.F7ettntYK6a6.RxNhq2pQZK7/4.",
+      "consent": true,
+      "consentAt": "2026-10-24T16:15:25.203Z"
+    },
+    {
+      "id": "a6ca0f88-57fc-4529-a369-8afb0a450ecc",
+      "name": "Bhagya",
+      "email": "bhgyashri34@gmail.com",
+      "dob": "2005-09-23",
+      "preferences": [],
+      "passwordHash": "$2a$12$Z73ytUP2jJD1H9H/sP6mDOFPWExBEpFgoVcB3863p0XsMqAbrH/lu",
+      "consent": false
+    },
+    {
+      "id": "b6a48c43-b57c-4a07-be2e-2a3b6eabf0e6",
+      "name": "Bhagyashri",
+      "email": "bhagya23@gmail.com",
+      "dob": "2006-04-01",
+      "preferences": [],
+      "passwordHash": "$2a$12$e6l3XwarT3IDpO2nfNrg5.8o6aGcF2bzvRsga6PrVs4cLwn8aU1sy",
+      "consent": true,
+      "consentAt": "2026-10-25T06:30:27.244Z"
+    }
+  ],
+  "symptoms": [
+    {
+      "id": "966816da-1e6f-4d26-9c6c-fe90a45ecf69",
+      "user": "7757813a-5afd-4c0e-a83c-296b8ec97855",
+      "type": "fatigue",
+      "severity": "mild",
+      "date": "2026-10-24",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-24T10:47:57.935Z"
+    },
+    {
+      "id": "e773de8e-8add-4b3e-b3e9-2898348f7b48",
+      "user": "629f4c57-8635-4193-b97c-9421c2f31639",
+      "type": "headache",
+      "severity": "moderate",
+      "date": "2026-10-24",
+      "duration": "2 to 3 days",
+      "notes": "",
+      "periodStart": true,
+      "createdAt": "2026-10-24T16:15:54.192Z"
+    },
+    {
+      "id": "d0fa42f7-e154-4208-aa0e-5306119b23c0",
+      "user": "b6a48c43-b57c-4a07-be2e-2a3b6eabf0e6",
+      "type": "headache",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T06:32:00.806Z"
+    }
+  ],
+  "reminders": [],
+  "resets": []
+}
