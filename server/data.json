@@ -135,6 +135,25 @@
       "passwordHash": "$2a$12$PCUI7YVBfHJt0SnvAEZQH.d0brVLhkaTOQweR6PdYqZoAP1VL.5Iu",
       "consent": true,
       "consentAt": "2026-10-25T17:49:03.084Z"
+    },
+    {
+      "id": "a6ca0f88-57fc-4529-a369-8afb0a450ecc",
+      "name": "Bhagya",
+      "email": "bhgyashri34@gmail.com",
+      "dob": "2005-09-23",
+      "preferences": [],
+      "passwordHash": "$2a$12$Z73ytUP2jJD1H9H/sP6mDOFPWExBEpFgoVcB3863p0XsMqAbrH/lu",
+      "consent": false
+    },
+    {
+      "id": "b6a48c43-b57c-4a07-be2e-2a3b6eabf0e6",
+      "name": "Bhagyashri",
+      "email": "bhagya23@gmail.com",
+      "dob": "2006-04-01",
+      "preferences": [],
+      "passwordHash": "$2a$12$e6l3XwarT3IDpO2nfNrg5.8o6aGcF2bzvRsga6PrVs4cLwn8aU1sy",
+      "consent": true,
+      "consentAt": "2026-10-25T06:30:27.244Z"
     }
   ],
   "symptoms": [
@@ -181,6 +200,17 @@
       "notes": "",
       "periodStart": false,
       "createdAt": "2026-10-25T05:29:32.667Z"
+    },
+    {
+      "id": "d0fa42f7-e154-4208-aa0e-5306119b23c0",
+      "user": "b6a48c43-b57c-4a07-be2e-2a3b6eabf0e6",
+      "type": "headache",
+      "severity": "mild",
+      "date": "2026-10-25",
+      "duration": "A few hours",
+      "notes": "",
+      "periodStart": false,
+      "createdAt": "2026-10-25T06:32:00.806Z"
     },
     {
       "id": "e9a4e8cf-dda4-4969-81eb-447995020d43",
