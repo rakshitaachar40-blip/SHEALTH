@@ -72,9 +72,3 @@ Potential improvements include:
 * Medical-content review.
 * Evaluation of AI-generated responses.
 * Testing with representative users under appropriate privacy safeguards.
-
-## 7. Final Verification
-
-Before submission, record which features were successfully tested, any known defects, and the version of the project that was demonstrated.
-
-Do not mark a feature as passing unless the relevant test has actually been completed.
